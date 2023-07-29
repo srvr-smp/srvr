@@ -1,0 +1,65 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:21:50] filterscripts = ""  (string)
+[15:21:50] 
+[15:21:50] Server Plugins
+[15:21:50] --------------
+[15:21:50]  Loading plugin: crashdetect.so
+[15:21:50]   CrashDetect plugin 4.21
+[15:21:50]   Loaded.
+[15:21:50]  Loading plugin: mysql.so
+[15:21:50]  >> plugin.mysql: R41 successfully loaded.
+[15:21:50]   Loaded.
+[15:21:50]  Loading plugin: pawncmd.so
+[15:21:50] [Pawn.CMD] plugin v3.3.6 loading...
+[15:21:50] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 08:25:00
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:21:50]   Loaded.
+[15:21:50]  Loading plugin: sscanf.so
+[15:21:50] 
+
+[15:21:50]  ===============================
+
+[15:21:50]       sscanf plugin loaded.     
+
+[15:21:50]          Version:  2.8.3        
+
+[15:21:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:21:50]  ===============================
+
+[15:21:50]   Loaded.
+[15:21:50]  Loaded 4 plugins.
+
+[15:21:50] 
+[15:21:50] Filterscripts
+[15:21:50] ---------------
+[15:21:50]   Loaded 0 filterscripts.
+
+[15:21:50] [MYSQL] Успешное подключение к БД
+[15:21:50] 
+---------------------------------------------------
+[15:21:50] ------------Stay Wide Awake-------------
+[15:21:50] ----------------------------------------
+
+[15:21:50] Number of vehicle models: 2
+[15:23:11] [connection] 87.117.48.37:13710 requests connection cookie.
+[15:23:11] [connection] incoming connection: 87.117.48.37:13710 id: 0
+[15:23:13] [join] Royce_Caterpillar has joined the server (0:87.117.48.37)
+[15:32:17] [part] Royce_Caterpillar has left the server (0:1)

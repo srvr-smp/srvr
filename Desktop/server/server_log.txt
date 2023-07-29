@@ -1,0 +1,70 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:51:27] filterscripts = ""  (string)
+[18:51:27] 
+[18:51:27] Server Plugins
+[18:51:27] --------------
+[18:51:27]  Loading plugin: crashdetect.so
+[18:51:27]   CrashDetect plugin 4.21
+[18:51:27]   Loaded.
+[18:51:27]  Loading plugin: mysql.so
+[18:51:27]  >> plugin.mysql: R41 successfully loaded.
+[18:51:27]   Loaded.
+[18:51:27]  Loading plugin: pawncmd.so
+[18:51:27] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[18:51:27]   Loaded.
+[18:51:27]  Loading plugin: sscanf.so
+[18:51:27] 
+
+[18:51:27]  ===============================
+
+[18:51:27]       sscanf plugin loaded.     
+
+[18:51:27]          Version:  2.8.3        
+
+[18:51:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:51:27]  ===============================
+
+[18:51:27]   Loaded.
+[18:51:27]  Loaded 4 plugins.
+
+[18:51:27] 
+[18:51:27] Filterscripts
+[18:51:27] ---------------
+[18:51:27]   Loaded 0 filterscripts.
+
+[18:51:27] [MYSQL] Успешное подключение к БД
+[18:51:27] 
+----------------------------------
+[18:51:27] ------------Stay Wide Awake-------------
+[18:51:27] ----------------------------------
+
+[18:51:27] Number of vehicle models: 0
+[18:53:29] [connection] 87.117.54.26:29488 requests connection cookie.
+[18:53:30] [connection] incoming connection: 87.117.54.26:29488 id: 0
+[18:53:31] [join] Royce_Caterpillar has joined the server (0:87.117.54.26)
+[18:57:09] [part] Royce_Caterpillar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:15:10] filterscripts = ""  (string)
+[10:15:10] 
+[10:15:10] Server Plugins
+[10:15:10] --------------
+[10:15:10]  Loading plugin: crashdetect.so
+[10:15:11]   Failed.
+[10:15:11]  Loading plugin: mysql.so

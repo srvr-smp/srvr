@@ -1,0 +1,85 @@
+[20:54:51] [WARNING] mysql_connect: no password specified
+[20:54:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2003 'Can't connect to MySQL server on 'localhost' (10061)'
+[20:54:55] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2003 'Can't connect to MySQL server on 'localhost' (10061)'
+[20:54:57] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2003 'Can't connect to MySQL server on 'localhost' (10061)'
+[20:54:59] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2003 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:00:42] [WARNING] mysql_connect: no password specified
+[21:00:46] [ERROR] Ð+Y
+[21:02:26] [WARNING] mysql_connect: no password specified
+[21:02:30] [ERROR] ˆx
+[18:15:25] [WARNING] mysql_connect: no password specified
+[18:18:19] [WARNING] mysql_connect: no password specified
+[18:30:11] [WARNING] mysql_connect: no password specified
+[19:21:06] [WARNING] mysql_connect: no password specified
+[19:33:31] [WARNING] mysql_connect: no password specified
+[20:11:30] [WARNING] mysql_connect: no password specified
+[22:42:25] [WARNING] mysql_connect: no password specified
+[16:53:30] [WARNING] mysql_connect: no password specified
+[16:53:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2003 'Can't connect to MySQL server on 'localhost' (10061)'
+[16:53:44] [WARNING] mysql_connect: no password specified
+[17:38:46] [WARNING] mysql_connect: no password specified
+[14:45:22] [WARNING] mysql_connect: no password specified
+[14:59:03] [WARNING] mysql_connect: no password specified
+[15:02:45] [WARNING] mysql_connect: no password specified
+[20:11:49] [WARNING] mysql_connect: no password specified
+[20:14:59] [WARNING] mysql_connect: no password specified
+[20:20:36] [WARNING] mysql_connect: no password specified
+[22:36:25] [WARNING] mysql_connect: no password specified
+[22:38:27] [WARNING] mysql_connect: no password specified
+[21:33:20] [WARNING] mysql_connect: no password specified
+[21:35:12] [WARNING] mysql_connect: no password specified
+[21:36:40] [WARNING] mysql_connect: no password specified
+[21:45:22] [WARNING] mysql_connect: no password specified
+[21:45:26] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:45:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:45:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:45:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:45:44] [WARNING] mysql_connect: no password specified
+[22:05:00] [WARNING] mysql_connect: no password specified
+[22:06:52] [WARNING] mysql_connect: no password specified
+[22:09:02] [WARNING] mysql_connect: no password specified
+[22:09:38] [WARNING] mysql_connect: no password specified
+[22:10:33] [WARNING] mysql_connect: no password specified
+[00:52:10] [WARNING] mysql_connect: no password specified
+[01:09:16] [WARNING] mysql_connect: no password specified
+[01:14:02] [WARNING] mysql_connect: no password specified
+[01:25:32] [WARNING] mysql_connect: no password specified
+[01:30:23] [WARNING] mysql_connect: no password specified
+[01:31:57] [WARNING] mysql_connect: no password specified
+[01:33:19] [WARNING] mysql_connect: no password specified
+[01:37:27] [WARNING] mysql_connect: no password specified
+[09:44:08] [WARNING] mysql_connect: no password specified
+[09:47:13] [WARNING] mysql_connect: no password specified
+[18:51:40] [WARNING] mysql_connect: no password specified
+[19:03:10] [WARNING] mysql_connect: no password specified
+[20:02:15] [WARNING] mysql_connect: no password specified
+[20:43:38] [WARNING] mysql_connect: no password specified
+[21:55:43] [WARNING] mysql_connect: no password specified
+[22:21:46] [WARNING] mysql_connect: no password specified
+[22:36:52] [WARNING] mysql_connect: no password specified
+[22:58:04] [WARNING] mysql_connect: no password specified
+[15:45:23] [WARNING] mysql_connect: no password specified
+[15:52:16] [WARNING] mysql_connect: no password specified
+[15:53:16] [WARNING] mysql_connect: no password specified
+[16:15:59] [WARNING] mysql_connect: no password specified
+[16:20:01] [WARNING] mysql_connect: no password specified
+[16:20:55] [WARNING] mysql_connect: no password specified
+[16:23:30] [WARNING] mysql_connect: no password specified
+[20:59:22] [WARNING] mysql_connect: no password specified
+[21:26:50] [WARNING] mysql_connect: no password specified
+[21:34:34] [WARNING] mysql_connect: no password specified
+[21:37:47] [WARNING] mysql_connect: no password specified
+[21:38:12] [WARNING] mysql_connect: no password specified
+[21:56:46] [WARNING] mysql_connect: no password specified
+[21:57:32] [WARNING] mysql_connect: no password specified
+[12:08:34] [WARNING] mysql_connect: no password specified
+[12:18:26] [WARNING] mysql_connect: no password specified
+[14:00:02] [WARNING] mysql_connect: no password specified
+[14:11:47] [WARNING] mysql_connect: no password specified
+[14:13:50] [WARNING] mysql_connect: no password specified
+[14:15:38] [WARNING] mysql_connect: no password specified
+[14:17:45] [WARNING] mysql_connect: no password specified
+[14:19:01] [WARNING] mysql_connect: no password specified
+[14:20:08] [WARNING] mysql_connect: no password specified
+[19:49:32] [WARNING] mysql_connect: no password specified
+[19:53:24] [ERROR] error #1064 while executing query "DELETE * FROM `banlist` WHERE `name` = 'Royce_Caterpillar'": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* FROM `banlist` WHERE `name` = 'Royce_Caterpillar'' at line 1
